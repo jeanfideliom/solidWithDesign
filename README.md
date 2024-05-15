@@ -9,3 +9,5 @@ To adhere to the Dependency Inversion Principle (DIP) and ensure flexibility for
 Your solution should not violate other SOLID principles.
 
 ## UML Diagram
+
+![solidWithDesignUML](https://github.com/jeanfideliom/solidWithDesign/assets/63704287/fdfac25b-ada9-4780-a7fb-9bd661503c30)
